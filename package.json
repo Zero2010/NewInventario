@@ -4,7 +4,8 @@
   "description": "primer proyecto de node.js",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "dev":"lite-server",
+   "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Zero2010/NewInventario/issues"
   },
-  "homepage": "https://github.com/Zero2010/NewInventario#readme"
+  "homepage": "https://github.com/Zero2010/NewInventario#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
+
+
+
