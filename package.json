@@ -4,8 +4,8 @@
   "description": "primer proyecto de node.js",
   "main": "index.html",
   "scripts": {
-   "dev":"lite-server",
-   "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,10 @@
   "homepage": "https://github.com/Zero2010/NewInventario#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
   }
 }
-
-
-
