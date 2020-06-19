@@ -1,0 +1,22 @@
+{
+  "name": "inventario",
+  "version": "1.0.0",
+  "description": "primer proyecto de node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zero2010/NewInventario.git"
+  },
+  "keywords": [
+    "}"
+  ],
+  "author": "Mario Isla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zero2010/NewInventario/issues"
+  },
+  "homepage": "https://github.com/Zero2010/NewInventario#readme"
+}
