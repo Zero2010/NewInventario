@@ -1,0 +1,32 @@
+.jumbotron{
+    background-color: dodgerblue;
+    color:white;
+}
+
+.btn{
+    background-color:dodgerblue;
+    color:white;
+}
+
+.footer{
+    padding: 10px 10px 0px 10px;
+    background-color: dodgerblue;
+    margin-bottom:  0px;
+    margin-top:10px;
+    color:white;
+}
+
+.card-turismo{
+    flex : 1 150px;
+    padding: 2px 5px 2px 5px;
+    margin-top: 10px; 
+}
+
+.btn-turismo{
+    width: 100%;
+}
+
+.letras-footer
+{
+    color:white;
+}
